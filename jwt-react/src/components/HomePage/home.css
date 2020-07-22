@@ -1,0 +1,13 @@
+.home-btns{
+    border: none;
+    background: #90EE90;
+    border-radius: 40px;
+    padding: 5px 20px;
+    margin-right: 40px;
+    cursor: pointer;
+  }
+
+
+  .dashboard-div{
+      padding: 20px;
+  }

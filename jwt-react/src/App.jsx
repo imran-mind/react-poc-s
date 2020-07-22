@@ -1,0 +1,18 @@
+import React from 'react';
+// import './App.css';
+import {AppRoutes} from './components/routes';
+
+function App() {
+  return (
+    <div className="App">
+      <AppRoutes/>
+    </div>
+  );
+}
+
+export default App;
+
+// 35
+// 55 - 15
+// 25 -15
+// 10
