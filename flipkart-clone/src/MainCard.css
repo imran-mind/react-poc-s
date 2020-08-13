@@ -1,0 +1,19 @@
+.maincard{
+    width: 100%;
+    /* background-color: lightgrey; */
+    /* border: 1px solid lightgray; */
+    height: 55vh;
+    margin-left: 1rem;
+    
+}
+
+.maincard__cards{
+    display: flex;
+    margin: 20px;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+
+.maincard__cards::-webkit-scrollbar {
+    display: none;
+}

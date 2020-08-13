@@ -1,0 +1,9 @@
+.offerRow {
+    max-width: 1225px;
+    display: flex;
+}
+.offerRow> img {
+    width: 390px;
+    object-fit: contain;
+    padding: 12px;
+}

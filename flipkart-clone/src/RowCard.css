@@ -1,0 +1,29 @@
+.rowcard{
+    width: 195px;
+    padding: 10px;
+}
+
+.rowcard>img{
+    height: 150px;
+    width: 150px;
+    object-fit: contain;
+}
+
+.rowcard__title{
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.rowcard__offer{
+    color: #388e3c;
+    padding-top: 8px;
+}
+
+.rowcard__other{
+    opacity: .6;
+    padding-top: 7px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
